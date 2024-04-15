@@ -1,20 +1,11 @@
 # Terminal Console Games
-- Collection of games that are played through a terminal.
+- Collection of terminal games.
 - To play it must download file of the game.
 - Games are updated/added constantly
 - MIT License
 
-## Getting Started
-To play the any of the games, make sure you have [Node.js](https://nodejs.org/) installed on your machine. Then follow these steps:
-
-1. Clone repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Download just the game js file you are interested in.
-
 ## Games
-### Find Your Hat
+### Find Your Hat - NODE.JS
 Simple adventure game where the player navigates a field to find a hidden hat while avoiding holes.
 - Customize Field and level of difficulty.
 - '*' represents the player's current position.

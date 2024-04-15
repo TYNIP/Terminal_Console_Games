@@ -1,4 +1,8 @@
 {
+  "name": "terminalgames",
+  "author": "TYNIP",
+  "version": "0.1.0",
+
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
