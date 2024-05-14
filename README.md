@@ -24,8 +24,19 @@ Recreation of the popular game "Battleship"
 - Type exact location by using the x y format. Example: 1, 2 = x:1 y:2
 - x : missed
 - * : hit ship
+To Exit: ctrl + c 
 
 To win the game you must sink all the ships
+
 ### Mini Hero - PYTHON
-Mini Adventure Game
-- In Development
+Mini adventure game, you play as a hero on a mission to defeat a horde of goblins.
+Rules:
+- Encounter and battle goblins until you defeat five of them.
+- Each goblin has a random amount of health between 30 and 60.
+- During battles, you can choose to attack or defend against the goblin's attacks.
+- If your health reaches 0, the game is over.
+- After defeating a goblin, you have the option to recover 10 health points or increase your attack power by 5.
+- The goblins can randomly choose to attack or defend during their turns.
+To Exit: ctrl + c
+
+To win the game you must eliminate 5 goblins
