@@ -40,3 +40,12 @@ Rules:
 To Exit: ctrl + c
 
 To win the game you must eliminate 5 goblins
+
+### Towers of Hanoi - Python
+Recreation of the popular mathematical game Tower of Hanoi also known as pyramid puzzle
+Rules:
+- Select top disk from L M R (left, middle or right rod)
+- Select which rod to place prev selected disk L M R (left, middle or right rod)
+To Exit: ctrl + c
+
+To win the game you must move all of the disks from the left rod to the right rod in the same exact order as the game start.
